@@ -1,5 +1,5 @@
 # Omnifood-restaurant-menu
-Sample restaurant menu. Dynamic Restaurant menu website. Includes JQuery/vanilla JS/ CSS3 Animaitons/Sticky nav/Scroll effects.
+Sample restaurant menu. Dynamic Restaurant menu website. Includes JQuery/vanilla JS/ CSS3 Animaitons/Sticky nav/Scroll effects/googel maps API.
 Browse files for further interests. 
 
 ![image](https://user-images.githubusercontent.com/23155302/39592820-f32689b2-4ed5-11e8-86ab-b02e31f8b749.png)
